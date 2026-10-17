@@ -1,0 +1,5 @@
+{
+  "chile-latest.osm.pbf": {"fecha_descarga": "2026-10-15", "fecha_datos": "2026-10-14T20:21:12Z", "url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf", "licencia": "ODbL, OpenStreetMap contributors"},
+  "GTFS_20261003.zip": {"fecha_descarga": "2026-10-15", "version": "V168.20261003", "vigencia": "2026-10-03 a 2026-12-31", "url": "https://www.dtpm.cl/descargas/gtfs/GTFS_20261003.zip", "publicador": "DTPM / Red Metropolitana"},
+  "DPA_2023.zip": {"fecha_descarga": "2026-10-15", "version": "DPA 2023, COMUNAS_v1", "url": "https://www.geoportal.cl/geoportal/catalog/download/912598ad-ac92-35f6-8045-098f214bd9c2", "licencia": "CC-BY, IDE Chile"}
+}

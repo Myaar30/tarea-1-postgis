@@ -1,0 +1,240 @@
+﻿route_short_name,stop_id,stop_name,amenidad_id,nombre,amenity,distancia_m
+514,PA422,PA422-Parada 4 / (M) Plaza de Armas,node/127285,Cruz Verde,pharmacy,27.095686627805506
+514,PA822,PA822-Avenida Brasil / esq. Catedral,area/71819,Centro de Referencia Sociosanitario,doctors,312.164407504356
+514,PJ58,PJ58-Parada 4 / (M) Gruta de Lourdes,node/161580,Farmacia Espoz,pharmacy,127.61061362221328
+514,PD320,PD320-Avenida Irarrázaval / esq. Marchant Pereira,node/3315,SalcoBrand,pharmacy,34.194586984591304
+514,PD679,PD679-Av. San Luis de Macul / esq. 4 Oriente,node/131929,Farmacia San Luis de Macul,pharmacy,206.16466389406708
+514,PD662,PD662-Ramón Cruz / esq. Enrique Molina G.,node/199600,CESFAM Padre Gerardo Whelan,clinic,826.034703017709
+514,PD321,PD321-Parada 2 / Irarrázaval - Campos del Deporte,node/128010,Consalud,clinic,63.45180878681612
+514,PJ1075,PJ1075-Nueva Imperial / esq. Díaz Sagredo,node/199653,CECOSF Plaza México,doctors,300.5236799191534
+514,PD112,PD112-Dublé Almeyda / esq. Campos de Deportes,area/18164,SalcoBrand,pharmacy,68.54332718076022
+514,PD677,PD677-Av. San Luis de Macul / esq. Hojas Secas,node/169723,Farmacias 24,pharmacy,549.8443282642871
+514,PD665,PD665-Ramón Cruz / esq. Los Plátanos,node/114162,Cruz Verde,pharmacy,677.0819779936603
+514,PD663,PD663-Ramón Cruz / esq. I. Carrera Pinto,node/199655,SAPU Santa Julia,doctors,939.6621466645549
+514,PD326,PD326-Parada 14 / (M) Irarrázaval,node/189307,Farma Oferta,pharmacy,137.18181620035682
+514,PE1321,PE1321-Av. Departamental / esq. Los Nogales,area/100131,Centro de Medicina Biológica Los Alerces,doctors,670.956113471704
+514,PA428,PA428-Compañía de Jesús / esq. Esperanza,area/417,Hospital San Juan de Dios,hospital,374.4152203487487
+514,PD692,PD692-San Vicente de Paul / esq. Sebastián Apóstol,area/17884,Centro de Salud San Ramón,clinic,542.9559246999398
+514,PD142,PD142-Av. San Luis de Macul / esq. Los Boteros,node/131907,Farmacias La Botika,pharmacy,157.04939609840324
+514,PD615,PD615-Av. Departamental / esq. Los Cerezos,node/117960,Posta de salud rural las perdices,doctors,844.6947880715718
+514,PJ1038,PJ1038-Avenida Dorsal / esq. Isla Decepción,area/109114,CESFAM Doctor Raúl Yazigi,clinic,236.18954794811185
+514,PA298,PA298-Parada 7 / (M) Santa Ana,area/71819,Centro de Referencia Sociosanitario,doctors,109.5174317202172
+514,PD672,PD672-San Vicente de Paul / esq. Campo Lindo,area/17884,Centro de Salud San Ramón,clinic,355.6860292729294
+514,PE274,PE274-Av. Departamental / esq. Los Cerezos,area/100131,Centro de Medicina Biológica Los Alerces,doctors,811.1354248903306
+514,PA640,PA640-Parada / Estadio Marista,area/2733,Centro de Salud Amengual de la Usach,clinic,729.0135189785902
+514,PD607,PD607-Dr. Amador Neghme R. / esq. Juan Jofré,node/153647,Centro de Diagnóstico CEDINTA,clinic,311.28868853851594
+514,PA297,PA297-Parada / Plaza Brasil,node/128459,Farmacias Ahumada,pharmacy,300.26192851284395
+514,PJ884,PJ884-Parada 6 / (M) Neptuno,area/109114,CESFAM Doctor Raúl Yazigi,clinic,568.1815118729517
+514,PJ1819,PJ1819-Avenida Dorsal / esq. Las Acacias,area/21757,Farmacia Los Ediles,pharmacy,206.6590030177283
+514,PD701,PD701-Ramón Cruz / esq. Amanda Labarca H,node/199600,CESFAM Padre Gerardo Whelan,clinic,701.3483962747314
+514,PD353,PD353-Dublé Almeyda / esq. Brown Sur,node/131158,Ultra Solidaria,pharmacy,197.28884928793164
+514,PA383,PA383-Parada 5 / Plaza Italia,node/3310,Ecofarmacias,pharmacy,19.56012699706186
+514,PD317,PD317-Parada 2 / Plaza Ñuñoa,node/4919,Cruz Verde,pharmacy,97.76955860414493
+514,PD675,PD675-Parada 10 / (M) Macul,node/193699,Farmacias Ahumada,pharmacy,453.8199695235295
+514,PD671,PD671-San Vicente de Paul / esq. Eduardo Fabini,area/17884,Centro de Salud San Ramón,clinic,422.9008217026204
+514,PC575,PC575-Avenida Salvador / esq. Santa Isabel,area/105329,Clínica San Andrés,clinic,138.1919078517898
+514,PD429,PD429-Dublé Almeyda / esq. H. Covarrubias,node/231252,,pharmacy,156.39722907406997
+514,PA6,PA6-Parada 2 / Hospital San Juan de Dios,area/417,Hospital San Juan de Dios,hospital,160.16115297174562
+514,PD659,PD659-Ramón Cruz / esq. Raúl Silva Castro,node/236262,Farmacias Farmalym,pharmacy,430.6109878361094
+514,PC199,PC199-Parada 3 / Museo de Los Tajamares,node/113821,Cruz Verde,pharmacy,366.5178447221964
+514,PD322,PD322-Parada 2 / (M) Mons. Eyzaguirre,node/129592,Podología,clinic,56.42578276025871
+514,PA430,PA430-Compañía de Jesús / esq. Ricardo Cumming,node/2304,Cruz Verde,pharmacy,5.212125667791463
+514,PD522,PD522-Seminario / esq. Tucapel,node/189307,Farma Oferta,pharmacy,108.74902041871097
+514,PD134,PD134-Av. San Luis de Macul / esq. Pasaje Fresia,node/131907,Farmacias La Botika,pharmacy,11.432778869276754
+514,PD342,PD342-Parada 1 / (M) Villa Frei,node/111604,Los Orientales,pharmacy,103.08085151260993
+514,PC560,PC560-Seminario / esq. María L. Santander,node/68250,Farmacias Ahumada,pharmacy,132.0880450892478
+514,PD144,PD144-Av. San Luis de Macul / esq. Los Cerezos,area/15498,SAPU San Luis,doctors,332.2403427034157
+514,PI763,PI763-Av. Gral. Oscar Bonilla / esq. Chicago,node/244166,Medical Store,pharmacy,431.1637657625441
+514,PA373,PA373-Parada 9 / Plaza Italia,node/125990,Farmacias del Dr. Simi,pharmacy,45.07143443510492
+514,PI751,PI751-Av. Gral. Oscar Bonilla / esq. Búfalo,area/15688,Centro familiar Pablo Neruda,clinic,508.501960260704
+514,PJ216,PJ216-Av. Gral. Oscar Bonilla / esq. Rupia Hindú,node/244166,Medical Store,pharmacy,435.2865909400282
+514,PD666,PD666-Ramón Cruz / esq. Madreselvas,node/114162,Cruz Verde,pharmacy,668.8767698858182
+514,PA264,PA264-Parada 2 / (M) Santa Ana,node/127360,Sos Farmacias,pharmacy,21.455861307553473
+514,PD314,PD314-Avenida Irarrázaval / esq. Ortúzar,area/12446,Farmacias Ahumada,pharmacy,176.80843205688268
+514,PJ42,PJ42-Av. Apóstol Santiago / esq. Compañía de Jesús,node/161580,Farmacia Espoz,pharmacy,354.39501361049196
+514,PD667,PD667-Ramón Cruz / esq. Avenida Quilín,node/228169,Farmacias Ahumada,pharmacy,670.5827707540191
+514,PA5,PA5-Parada 3 / Hospital San Juan de Dios,area/417,Hospital San Juan de Dios,hospital,51.17662161006338
+514,PD697,PD697-Ramón Cruz / esq. 3 Norte,node/114162,Cruz Verde,pharmacy,678.1894407246821
+514,PC568,PC568-Avenida Salvador / esq. Caupolicán,node/125720,Cruz Verde,pharmacy,240.93452062671474
+514,PD703,PD703-Ramón Cruz / esq. Playa 2,area/12448,Centro Asistencial de Ñuñoa,doctors,678.7037794633983
+514,PJ212,PJ212-Av. Gral. Oscar Bonilla / esq. Los Ediles,node/201851,CECOSF Santa Corina,doctors,185.86267169579688
+514,PC577,PC577-Avenida Salvador / esq. Rancagua,node/114310,Farmacias Carmen,pharmacy,4.144550558595888
+514,PA334,PA334-Merced / esq. Miraflores,node/126969,Farmacias del Dr. Simi,pharmacy,27.923755212622112
+514,PJ1608,PJ1608-Nueva Imperial / esq. Victorino Laynez,node/199653,CECOSF Plaza México,doctors,240.7372333616341
+514,PJ34,PJ34-Nueva Imperial / esq. Radal,node/130609,Farmacia,pharmacy,615.7223592713509
+514,PD316,PD316-Avenida Irarrázaval / esq. Pedro Torres,node/126726,Cruz Verde,pharmacy,122.33976670175038
+514,PC195,PC195-Parada 2 / Parque Balmaceda,node/3325,SalcoBrand,pharmacy,288.9237626735979
+514,PD698,PD698-Ramón Cruz / esq. 4 Norte,node/114162,Cruz Verde,pharmacy,735.242472582325
+514,PJ876,PJ876-Porto Seguro / esq. Gaspar de Orense,node/199653,CECOSF Plaza México,doctors,549.6645022165894
+514,PD140,PD140-Av. San Luis de Macul / esq. Las Cepas,node/131907,Farmacias La Botika,pharmacy,447.05162908450023
+514,PD661,PD661-Ramón Cruz / esq. Amanda Labarca H,node/199600,CESFAM Padre Gerardo Whelan,clinic,695.0867456664365
+514,PD668,PD668-Avenida Quilín / esq. Los Evangelistas,node/228169,Farmacias Ahumada,pharmacy,561.5969606416853
+514,PD336,PD336-Avenida Irarrázaval / esq. Exequiel Fernández,node/3332,SalcoBrand,pharmacy,65.17680844036865
+514,PD708,PD708-Ramón Cruz / esq. Dublé Almeyda,node/236262,Farmacias Farmalym,pharmacy,457.66730185619383
+514,PD333,PD333-Parada 1 / (M) Mons. Eyzaguirre,node/129592,Podología,clinic,62.903577732347614
+514,PA417,PA417-Parada 3 / (M) Plaza de Armas,node/3320,SalcoBrand,pharmacy,49.197450164823195
+514,PA43,PA43-Miraflores / esq. Agustinas,node/3401,Farmacia Manríquez,pharmacy,49.58100002754819
+514,PD616,PD616-Av. Departamental / esq. Los Nogales,area/100131,Centro de Medicina Biológica Los Alerces,doctors,724.7466981400767
+514,PD673,PD673-San Vicente de Paul / esq. Cuadro Verde,area/17884,Centro de Salud San Ramón,clinic,393.9158422156466
+514,PD687,PD687-Av. San Luis de Macul / esq. Av. A. Vespucio,node/193699,Farmacias Ahumada,pharmacy,564.524969048072
+514,PJ885,PJ885-Neptuno / esq. Av. Gral. O. Bonilla,area/109114,CESFAM Doctor Raúl Yazigi,clinic,681.403360350272
+514,PD521,PD521-Avenida Salvador / esq. Caupolicán,node/125720,Cruz Verde,pharmacy,206.86723630360063
+514,PJ56,PJ56-Parada / INBA,area/22561,Farmacia Salamovich,pharmacy,435.21028728762377
+514,PD133,PD133-Av. San Luis de Macul / esq. Los Soldadores,node/131907,Farmacias La Botika,pharmacy,362.5225264553599
+514,PD683,PD683-Av. San Luis de Macul / esq. Nevado 3 Cruces,node/131929,Farmacia San Luis de Macul,pharmacy,28.16893215435416
+514,PD319,PD319-Parada 2 / (M) Ñuñoa,node/3323,SalcoBrand,pharmacy,21.387218729122
+514,PJ19,PJ19-Avenida Las Rejas / esq. Nueva Imperial,area/21757,Farmacia Los Ediles,pharmacy,408.0401462899659
+514,PD111,PD111-Parada 5 / (M) Mons. Eyzaguirre,node/223360,Farmacias del Dr. Simi,pharmacy,162.35223464895674
+514,PD356,PD356-Dublé Almeyda / esq. Alc. J. Monckeberg,area/12446,Farmacias Ahumada,pharmacy,318.0983959100756
+514,PD355,PD355-Dublé Almeyda / esq. Juan Moya Morales,node/3342,SalcoBrand,pharmacy,229.8498440289719
+514,PD341,PD341-Avenida Irarrázaval / esq. Alc. J. Monckeberg,area/12446,Farmacias Ahumada,pharmacy,223.49595222734038
+514,PC201,PC201-Parada 3 / (M) Salvador,node/2927,Cruz Verde,pharmacy,82.49117863694268
+514,PC572,PC572-José Manuel Infante / esq. Clemente Fabres,area/24802,CESFAM Doctor Hernán Alessandri,clinic,245.33214992304426
+514,PJ880,PJ880-Avenida Dorsal / esq. Santa Marta,area/109114,CESFAM Doctor Raúl Yazigi,clinic,187.76841731590324
+514,PA424,PA424-Santo Domingo / esq. Almirante Barroso,area/71819,Centro de Referencia Sociosanitario,doctors,172.97821617856482
+514,PJ877,PJ877-Porto Seguro / esq. Radal,area/102733,CESFAM Las Mercedes,clinic,458.114487359943
+514,PD1391,PD1391-Ramón Cruz / esq. Valparaíso,node/114367,Cruz Verde,pharmacy,297.4116428604069
+514,PD684,PD684-Av. San Luis de Macul / esq. Nevado Incahuasi,node/131929,Farmacia San Luis de Macul,pharmacy,123.01431067034711
+514,PJ1609,PJ1609-Nueva Imperial / esq. Santa Petronila,node/130609,Farmacia,pharmacy,510.78208085232313
+514,PJ1682,PJ1682-Parada 7 / (M) Barrancas,node/244166,Medical Store,pharmacy,287.79464867485456
+514,PC200,PC200-Parada 3 / Parque Balmaceda,node/3325,SalcoBrand,pharmacy,230.1375694479466
+514,PJ878,PJ878-Avenida Dorsal / esq. Los Ediles,area/21757,Farmacia Los Ediles,pharmacy,13.58902476564754
+514,PD273,PD273-Av. Américo Vespucio / esq. Av. Sn. Luis de Macul,node/193699,Farmacias Ahumada,pharmacy,492.7535113738246
+514,PD695,PD695-Avenida Quilín / esq. Ramón Cruz Montt,node/228169,Farmacias Ahumada,pharmacy,638.2774875196144
+514,PD315,PD315-Parada / Casa de La Cultura Ñuñoa,node/3342,SalcoBrand,pharmacy,44.40867431767662
+514,PJ909,PJ909-Avenida Dorsal / esq. Hiram,area/109114,CESFAM Doctor Raúl Yazigi,clinic,113.95193058051859
+514,PA44,PA44-Miraflores / esq. Merced,node/126969,Farmacias del Dr. Simi,pharmacy,27.931576358371682
+514,PJ907,PJ907-Neptuno / esq. Huelen Huala,area/109114,CESFAM Doctor Raúl Yazigi,clinic,603.3297249144022
+514,PC570,PC570-José Manuel Infante / esq. Los Naranjos,area/70260,Instituto de Neurocirugía Doctor Alfonso Asenjo,hospital,43.38180934136665
+514,PD332,PD332-Avenida Irarrázaval / esq. Capitán Fuentes,area/18810,Farmarecet,pharmacy,61.853162251614194
+514,PD324,PD324-Parada 2 / Irarrázaval - Salvador,area/18810,Farmarecet,pharmacy,252.33858341099292
+514,PJ883,PJ883-Avenida Dorsal / esq. Claudio Zúñiga,area/109114,CESFAM Doctor Raúl Yazigi,clinic,305.4237565790025
+514,PA332,PA332-Parada 2 / Liceo Uno,node/114702,Cruz Verde,pharmacy,46.51784236905942
+514,PJ911,PJ911-Avenida Dorsal / esq. España,area/21757,Farmacia Los Ediles,pharmacy,181.64666016726994
+514,PJ1611,PJ1611-Nueva Imperial / esq. Avenida Las Rejas,node/130609,Farmacia,pharmacy,470.63479791113576
+514,PD693,PD693-San Vicente de Paul / esq. San Lucas,node/228169,Farmacias Ahumada,pharmacy,668.1848138549385
+514,PJ217,PJ217-Av. Gral. Oscar Bonilla / esq. Los Ediles,node/201851,CECOSF Santa Corina,doctors,194.7527972379769
+514,PD482,PD482-Avenida Salvador / esq. Avenida Sucre,node/200034,Farmacias Ahumada,pharmacy,25.963169783519486
+514,PI87,PI87-Parada / Biblioteca de Santiago,area/417,Hospital San Juan de Dios,hospital,167.90539335919894
+514,PC566,PC566-Avenida Salvador / esq. Luis Montaner,area/38730,Centro de Estudios Reumatológicos,doctors,26.47400552266238
+514,PD339,PD339-Avenida Irarrázaval / esq. Santa Julia,node/126726,Cruz Verde,pharmacy,164.6658213557085
+514,PD617,PD617-Av. Departamental / esq. Mariano Sánchez F.,area/100131,Centro de Medicina Biológica Los Alerces,doctors,698.4650743833024
+514,PD343,PD343-Ramón Cruz / esq. Dublé Almeyda,node/114367,Cruz Verde,pharmacy,467.91130583999563
+514,PD318,PD318-Parada 5 / (M) Chile España,node/235418,Farcamcias Latinoamericana,pharmacy,9.81755247479932
+514,PJ43,PJ43-Av. Apóstol Santiago / esq. Nueva Imperial,node/199653,CECOSF Plaza México,doctors,359.25254775872503
+514,PD658,PD658-Ramón Cruz / esq. José María Narbona,node/236262,Farmacias Farmalym,pharmacy,341.583917752829
+514,PD699,PD699-Ramón Cruz / esq. I. Carrera Pinto,node/114162,Cruz Verde,pharmacy,886.3431062473524
+514,PD137,PD137-Avenida Tobalaba / esq. Av. Ramón Carnicer,node/131907,Farmacias La Botika,pharmacy,791.8050050542233
+514,PD1409,PD1409-Avenida Tobalaba / esq. Jorge Prieto L.,node/131907,Farmacias La Botika,pharmacy,787.0078014435718
+514,PD1370,PD1370-Parada 1 / Plaza Ñuñoa,node/4919,Cruz Verde,pharmacy,236.4454394768242
+514,PD664,PD664-Ramón Cruz / esq. Los Limoneros,node/114162,Cruz Verde,pharmacy,798.9904194991668
+514,PA40,PA40-Parada 1 / Parque Forestal,node/123978,Manríquez,pharmacy,207.2795156333546
+514,PD676,PD676-Av. San Luis de Macul / esq. Calle 334,node/193699,Farmacias Ahumada,pharmacy,566.2990584776552
+514,PD660,PD660-Parada 5 / Centro Olímpico Marlene Ahrens,area/72942,Centro Integral de la Persona Mayor,doctors,543.0283728103059
+514,PI764,PI764-Parada 6 / (M) Barrancas,node/244166,Medical Store,pharmacy,301.84445186052574
+514,PJ913,PJ913-Avenida Dorsal / esq. Av. Las Rejas-Norte,area/21757,Farmacia Los Ediles,pharmacy,242.6891519394076
+514,PJ875,PJ875-Porto Seguro / esq. Blanco Garcés,node/199653,CECOSF Plaza México,doctors,419.10440001411536
+514,PD705,PD705-Ramón Cruz / esq. María Celeste,node/236262,Farmacias Farmalym,pharmacy,488.9167298535096
+514,PD337,PD337-Parada 4 / (M) Chile España,node/156737,Farmacia Homeopática Nat Pharma,pharmacy,7.98568442071598
+514,PC578,PC578-Parada / Hospital Del Salvador,area/10875,Uromed,doctors,33.21303927383312
+514,PD500,PD500-José Manuel Infante / esq. Avenida Sucre,node/125720,Cruz Verde,pharmacy,291.7596196104066
+514,PD351,PD351-Dublé Almeyda / esq. Exequiel Fernández,node/155863,,pharmacy,166.19248411517734
+514,PD334,PD334-Parada 1 / Irarrázaval - Campos del Deporte,node/248631,Farnatención,pharmacy,31.046780167432477
+514,PD270,PD270-Av. Américo Vespucio / esq. Armando Pesantes,node/153647,Centro de Diagnóstico CEDINTA,clinic,477.6788395751344
+514,PD501,PD501-José Manuel Infante / esq. Av. Irarrázaval,area/18810,Farmarecet,pharmacy,26.500937457981955
+514,PD340,PD340-Parada / Casa de La Cultura Ñuñoa,node/3342,SalcoBrand,pharmacy,21.82303573917289
+514,PJ908,PJ908-Avenida Dorsal / esq. Min Gana,area/109114,CESFAM Doctor Raúl Yazigi,clinic,291.59194693715534
+514,PD519,PD519-Avenida Salvador / esq. Colo Colo,node/203441,Farmacia Pucón,pharmacy,241.24486824309244
+514,PJ879,PJ879-Avenida Dorsal / esq. España,area/21757,Farmacia Los Ediles,pharmacy,146.93923579531833
+514,PD685,PD685-Av. San Luis de Macul / esq. Central,node/131929,Farmacia San Luis de Macul,pharmacy,473.4490314288542
+514,PC580,PC580-Parada 4 / (M) Santa Isabel,node/208820,Farmacia Montes,pharmacy,20.68217288502943
+514,PA641,PA641-Avenida Portales / esq. Apóstol Santiago,node/199653,CECOSF Plaza México,doctors,426.84287705926937
+514,PD702,PD702-Ramón Cruz / esq. Av. Rodrigo de Araya,node/199600,CESFAM Padre Gerardo Whelan,clinic,708.88891782174
+514,PD313,PD313-Parada 2 / (M) Villa Frei,node/111604,Los Orientales,pharmacy,101.90229416615297
+514,PI1678,PI1678-Avenida Dorsal / esq. Av. Las Rejas-Norte,area/21757,Farmacia Los Ediles,pharmacy,279.495383997526
+514,PJ541,PJ541-Nueva Imperial / esq. Francisco Javier,node/199653,CECOSF Plaza México,doctors,247.81187773984885
+514,PD696,PD696-Ramón Cruz / esq. Las Madreselvas,node/114162,Cruz Verde,pharmacy,651.0333644819978
+514,PD335,PD335-Parada 1 / (M) Ñuñoa,node/133759,Centro Médico Dávila Ñuñoa,clinic,48.32306089262161
+514,PD568,PD568-Ramón Cruz / esq. Av. Rodrigo de Araya,node/199600,CESFAM Padre Gerardo Whelan,clinic,772.8527323184794
+514,PA427,PA427-Parada 1 / Hospital San Juan de Dios,area/417,Hospital San Juan de Dios,hospital,173.34569193659996
+514,PA429,PA429-Compañía de Jesús / esq. Cueto,node/121867,Cesfam Ignacio Domeyko,clinic,226.23578170724517
+514,PJ191,PJ191-Parada 2 / (M) Neptuno,area/109114,CESFAM Doctor Raúl Yazigi,clinic,582.7716216727814
+514,PJ914,PJ914-Nueva Imperial / esq. Gaspar de Orense,node/199653,CECOSF Plaza México,doctors,458.52263365778396
+514,PD690,PD690-San Vicente de Paul / esq. Campo Lindo,area/17884,Centro de Salud San Ramón,clinic,365.2832164341683
+514,PC571,PC571-José Manuel Infante / esq. Av. Francisco Bilbao,node/182411,SalcoBrand,pharmacy,70.91332305593477
+514,PD352,PD352-Parada 7 / (M) Chile España,node/155455,Farmacia Santa Gemita,pharmacy,147.8624358935744
+514,PC567,PC567-Avenida Salvador / esq. Santa Isabel,area/105329,Clínica San Andrés,clinic,121.23681220187454
+514,PD629,PD629-Dr. Amador Neghme R. / esq. Sn. Vicente De Paul,node/153647,Centro de Diagnóstico CEDINTA,clinic,290.99422799142417
+514,PD432,PD432-Dublé Almeyda / esq. Ramón Cruz Montt,node/236262,Farmacias Farmalym,pharmacy,474.2927427709862
+514,PC564,PC564-Parada / Hospital Del Salvador,area/10892,Centro de Salud Clini,clinic,23.735128660453285
+514,PI85,PI85-Parada / Estadio Marista,node/199653,CECOSF Plaza México,doctors,701.8210785622041
+514,PC563,PC563-Parada 5 / (M) Salvador,node/3325,SalcoBrand,pharmacy,32.41373612514542
+514,PD139,PD139-Av. San Luis de Macul / esq. Nueva 1,node/131907,Farmacias La Botika,pharmacy,636.9597986896572
+514,PD704,PD704-Parada 6 / Centro Olímpico Marlene Ahrens,area/72942,Centro Integral de la Persona Mayor,doctors,588.0538605502875
+514,PC559,PC559-Seminario / esq. Rancagua,node/114550,Cruz Verde,pharmacy,48.7951740305762
+514,PC561,PC561-Parada 6 / Museo de Los Tajamares,node/113821,Cruz Verde,pharmacy,389.28856547668033
+514,PD344,PD344-Ramón Cruz / esq. Av. Castillo Velasco,node/236262,Farmacias Farmalym,pharmacy,370.4353467660114
+514,PD136,PD136-Av. San Luis de Macul / esq. Avenida Tobalaba,node/131907,Farmacias La Botika,pharmacy,699.6600437437586
+514,PD700,PD700-Ramón Cruz / esq. Enrique Molina G.,area/24440,Farmacia El Valle,pharmacy,836.7371386620804
+514,PD680,PD680-Av. San Luis de Macul / esq. Pasaje Peatones 3,node/131929,Farmacia San Luis de Macul,pharmacy,40.557196408463966
+514,PJ218,PJ218-Av. Gral. Oscar Bonilla / esq. Rublo Ruso,node/201851,CECOSF Santa Corina,doctors,182.06442278477306
+514,PA421,PA421-Parada 2 / San Antonio - Santo Domingo,node/162249,Farmacia Comunitaria Doctora Eloísa Díaz,pharmacy,66.18989477862249
+514,PD325,PD325-Avenida Irarrázaval / esq. Avenida Condell,node/203440,Farmacia integral,pharmacy,49.55703078509215
+514,PI750,PI750-Av. Gral. Oscar Bonilla / esq. Chicago,node/244166,Medical Store,pharmacy,392.2675104093393
+514,PD274,PD274-Av. Américo Vespucio / esq. Chillán,node/169723,Farmacias 24,pharmacy,437.56057534647795
+514,PA599,PA599-Parada 4 / Hospital San Juan de Dios,area/417,Hospital San Juan de Dios,hospital,82.37715920807052
+514,PC576,PC576-Avenida Salvador / esq. Pedro León Gallo,area/111591,Farmacia Comunitaria de Providencia,pharmacy,27.322489379797336
+514,PD689,PD689-San Vicente de Paul / esq. Calle 2,area/17884,Centro de Salud San Ramón,clinic,416.7681101184428
+514,PD567,PD567-Ramón Cruz / esq. Peatones 16,area/72942,Centro Integral de la Persona Mayor,doctors,637.8152022778728
+514,PD173,PD173-Parada 2 / (M) Las Torres,node/169723,Farmacias 24,pharmacy,165.08049172704796
+514,PD1642,PD1642-Parada 6 / (M) Macul,node/193699,Farmacias Ahumada,pharmacy,236.03683400664647
+514,PD143,PD143-Av. San Luis de Macul / esq. Nueva,node/131907,Farmacias La Botika,pharmacy,375.44058337478094
+514,PD669,PD669-San Vicente de Paul / esq. San Lucas,node/228169,Farmacias Ahumada,pharmacy,635.204260659517
+514,PA463,PA463-Catedral / esq. Esperanza,node/121867,Cesfam Ignacio Domeyko,clinic,297.608666957024
+514,PD670,PD670-San Vicente de Paul / esq. Peatones Sn. Vicente,area/17884,Centro de Salud San Ramón,clinic,556.8005960662078
+514,PJ882,PJ882-Avenida Dorsal / esq. Pardo Villalón,area/109114,CESFAM Doctor Raúl Yazigi,clinic,129.71534285567208
+514,PD520,PD520-Avenida Salvador / esq. Avenida Sucre,node/200034,Farmacias Ahumada,pharmacy,46.41314285602493
+514,PD674,PD674-San Vicente de Paul / esq. Avenida Las Torres,node/153647,Centro de Diagnóstico CEDINTA,clinic,305.0716012769502
+514,PA642,PA642-Parada / Museo Artequín,area/417,Hospital San Juan de Dios,hospital,452.1745390117634
+514,PJ213,PJ213-Av. Gral. Oscar Bonilla / esq. Rupia Hindú,node/201851,CECOSF Santa Corina,doctors,422.3055939891121
+514,PJ1610,PJ1610-Nueva Imperial / esq. Gaspar de Orense,node/199653,CECOSF Plaza México,doctors,421.5491311539599
+514,PJ915,PJ915-Nueva Imperial / esq. Constantino,node/199653,CECOSF Plaza México,doctors,151.73167948378813
+514,PD691,PD691-San Vicente de Paul / esq. 1 Oriente,area/17884,Centro de Salud San Ramón,clinic,412.5004996313377
+514,PD141,PD141-Av. San Luis de Macul / esq. Los Arrieros,node/131907,Farmacias La Botika,pharmacy,140.55208202049445
+514,PC581,PC581-Seminario / esq. Marín,area/108875,Clínica Merced,clinic,208.4828277680334
+514,PC565,PC565-Avenida Salvador / esq. Rancagua,node/114310,Farmacias Carmen,pharmacy,36.96290307601027
+514,PD350,PD350-Parada 5 / (M) Ñuñoa,area/18006,Cruz Verde,pharmacy,10.949421125668104
+514,PD1440,PD1440-Avenida Quilín / esq. Sn. Vicente de Paul,node/228169,Farmacias Ahumada,pharmacy,413.46219089530274
+514,PJ912,PJ912-Avenida Dorsal / esq. Las Palmas,area/21757,Farmacia Los Ediles,pharmacy,20.672296802698042
+514,PD323,PD323-Avenida Irarrázaval / esq. José M. Infante,area/18810,Farmarecet,pharmacy,7.367708163480315
+514,PJ1607,PJ1607-Nueva Imperial / esq. Radal,node/199653,CECOSF Plaza México,doctors,584.3351036317216
+514,PD135,PD135-Av. San Luis de Macul / esq. Gabriela Mistral,node/131907,Farmacias La Botika,pharmacy,350.20931857664175
+514,PC579,PC579-Parada 6 / (M) Salvador,node/2927,Cruz Verde,pharmacy,22.09471847386169
+514,PI86,PI86-Parada / Museo Artequín,area/417,Hospital San Juan de Dios,hospital,518.8257369968825
+514,PJ44,PJ44-Av. Apóstol Santiago / esq. Porto Seguro,node/199653,CECOSF Plaza México,doctors,474.02267809554303
+514,PI762,PI762-Av. Gral. Oscar Bonilla / esq. Búfalo,area/15688,Centro familiar Pablo Neruda,clinic,480.94377365540714
+514,PD707,PD707-Ramón Cruz / esq. Av. Castillo Velasco,node/236262,Farmacias Farmalym,pharmacy,358.97028879815434
+514,PD686,PD686-Av. San Luis de Macul / esq. Gral.Horacio Toro,node/169723,Farmacias 24,pharmacy,527.6139986029895
+514,PJ1074,PJ1074-Nueva Imperial / esq. Barros Arana,node/199653,CECOSF Plaza México,doctors,131.2343515711433
+514,PE273,PE273-Av. Departamental / esq. Los Nogales,area/100131,Centro de Medicina Biológica Los Alerces,doctors,687.3442588092736
+514,PD681,PD681-Av. San Luis de Macul / esq. Los Cerezos,area/15497,Cesfam San Luis,doctors,291.5595569292789
+514,PI761,PI761-Av. Gral. Oscar Bonilla / esq. Escul Fraser,node/201959,SAPU Pablo Neruda,doctors,487.1724997563022
+514,PC573,PC573-José Manuel Infante / esq. Santa Isabel,node/4374,Cruz Verde,pharmacy,47.06526848497558
+514,PC196,PC196-Parada 2 / Museo de Los Tajamares,node/113821,Cruz Verde,pharmacy,346.84877454014253
+514,PD694,PD694-San Vicente de Paul / esq. Avenida Quilín,node/228169,Farmacias Ahumada,pharmacy,414.3560812543697
+514,PD354,PD354-Dublé Almeyda / esq. Los Jardines,node/126726,Cruz Verde,pharmacy,169.34294184829938
+514,PA7,PA7-Parada 1 / (M) Quinta Normal,area/417,Hospital San Juan de Dios,hospital,384.64264048930187
+514,PJ57,PJ57-Parada 2 / Basílica de Lourdes,node/161580,Farmacia Espoz,pharmacy,490.97239297201656
+514,PD784,PD784-Parada 1 / Irarrázaval - Salvador,area/18810,Farmarecet,pharmacy,162.35166133214662
+514,PA689,PA689-Catedral / esq. Cueto,node/121867,Cesfam Ignacio Domeyko,clinic,79.75278251972087
+514,PJ1582,PJ1582-Av. Las Rejas-Norte / esq. Ciudadela,area/21757,Farmacia Los Ediles,pharmacy,320.8002647443624
+514,PI752,PI752-Av. Gral. Oscar Bonilla / esq. Gral. J. Buendía,node/201959,SAPU Pablo Neruda,doctors,506.2479747738473
+514,PJ874,PJ874-Porto Seguro / esq. San Gumercindo,node/199653,CECOSF Plaza México,doctors,454.65808317920425
+514,PD523,PD523-Seminario / esq. Malaquías Concha,node/208820,Farmacia Montes,pharmacy,272.2225272287285
+514,PC574,PC574-José Manuel Infante / esq. Caupolicán,node/4374,Cruz Verde,pharmacy,208.68757776540028
+514,PA41,PA41-Parada 6 / (M) Universidad Católica,node/68247,Farmacias del Dr. Simi,pharmacy,226.60515480114154
+514,PJ211,PJ211-Av. Gral. Oscar Bonilla / esq. Rublo Ruso,node/201851,CECOSF Santa Corina,doctors,214.19774906427565
+514,PA462,PA462-Catedral / esq. Ricardo Cumming,node/137233,Farmacias del Dr. Simi,pharmacy,19.024453864434868
+514,PD338,PD338-Parada 3 / Plaza Ñuñoa,node/4919,Cruz Verde,pharmacy,147.70208162697904
+514,PD706,PD706-Ramón Cruz / esq. José María Narbona,node/236262,Farmacias Farmalym,pharmacy,371.0292749849866
+514,PD678,PD678-Av. San Luis de Macul / esq. Embalse La Palma,node/131929,Farmacia San Luis de Macul,pharmacy,432.1322237311999

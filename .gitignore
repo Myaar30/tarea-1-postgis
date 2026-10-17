@@ -1,0 +1,9 @@
+datos_fuente/*
+!datos_fuente/.gitkeep
+!datos_fuente/fuentes.json
+datos/*
+!datos/.gitkeep
+__pycache__/
+*.pyc
+.env
+# Resultados, mapas y exportaciones se conservan para la corrección.

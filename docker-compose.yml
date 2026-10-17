@@ -1,0 +1,20 @@
+name: tarea1-santiago
+services:
+  db:
+    build: .
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: tarea1local
+      POSTGRES_DB: tarea1
+    ports:
+      - "127.0.0.1:5434:5432"
+    volumes:
+      - tarea1-pgdata:/var/lib/postgresql/data
+      - ./:/trabajo
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d tarea1"]
+      interval: 5s
+      timeout: 5s
+      retries: 60
+volumes:
+  tarea1-pgdata:

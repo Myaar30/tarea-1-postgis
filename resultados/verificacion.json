@@ -1,0 +1,16 @@
+{
+  "DPA oficial con 345 comunas": true,
+  "GTFS presente": true,
+  "Edificios presentes": true,
+  "Servicios de salud presentes": true,
+  "Sin polígonos OSM inválidos": true,
+  "Asignación de paraderos única y completa": true,
+  "Cobertura no pierde edificios asignados": true,
+  "Grilla asigna cada edificio una vez": true,
+  "Coberturas dentro de 0 a 100": true,
+  "Q4 coincide con y sin subdivisión": true,
+  "Todos los shapes derivan de rutas GTFS": true,
+  "Q5 devuelve todos los paraderos de la ruta elegida": true,
+  "Q7 caracteriza todos los paraderos": true,
+  "Puntos GTFS sólo dentro de la caja": true
+}
